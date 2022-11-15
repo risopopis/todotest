@@ -1,0 +1,9 @@
+.footer {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer > span {
+    color: gray
+}
